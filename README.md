@@ -39,7 +39,7 @@ The model is trained on the [Dog Breed Identification dataset](link_to_dataset) 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dog-breed-classification.git
+   git clone https://github.com/mertgunendi/dog-breed-classification.git
    cd dog-breed-classification
 pip install -r requirements.txt
 Usage
